@@ -11,49 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Ph.D. in Petroleum Engineering, Missouri University of Science & Technology, 2016
+* M.S. in Petroleum Engineering, Missouri University of Science & Technology, 2014
+* B.S. in Petroleum Engineering, University of Petroleum Technology, 2009
 
-Work experience
+Professional Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Current: Senior Data Scientist
+  * MasterCard
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Aug 2012 to December 2016: Graduate Research Assistant
+  * Missouri University of Science & Technology
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Jul 2010 to July 2012: Offshore Petroleum Engineer
+  * PETROPARS Ltd.
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Nov 2009 to July 2010: Offshore Petroleum Engineer
+  * MAPSAENG Co.
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* June 2009 to Nov 2009: Petroleum Research Engineer
+  * PETROPARS Oil & Gas Institute 
+  
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* President, American Rock Mechanics Association, Missouri S&T Student Chapter
