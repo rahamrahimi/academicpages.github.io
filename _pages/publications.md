@@ -26,7 +26,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 Other Articles
 ======
-[1. Sidetrack Is Not Always an Expensive Choice: Job Hunting Strategies for Young Professionals](https://www.spe.org/en/twa/twa-article-detail/?art=3142) 
+[1. Sidetrack Is Not Always an Expensive Choice: Job Hunting Strategies for Young Professionals- THE WAY AHEAD, Society of Petroleum Engineers](https://www.spe.org/en/twa/twa-article-detail/?art=3142) 
 
 
 
