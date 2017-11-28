@@ -24,4 +24,10 @@ author_profile: true
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=1Ol5Y4wAAAAJ&hl=en&authuser=1)
 
+Other Articles
+======
+[1. Sidetrack Is Not Always an Expensive Choice: Job Hunting Strategies for Young Professionals](https://www.spe.org/en/twa/twa-article-detail/?art=3142) 
+
+
+
 
