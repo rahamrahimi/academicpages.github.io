@@ -21,6 +21,6 @@ author_profile: true
 [7.Rahimi, Reza, and Amin Tahami. "Implementing Smart Solution for Controlling Water Cut in South Pars Gas Field from Environmental Point of View." SPE Deep Gas Conference and Exhibition. Society of Petroleum Engineers, 2010.](https://www.onepetro.org/conference-paper/SPE-130913-MS) 
 
 
-You can also find my articles on <u><a href="{{https://scholar.google.com/citations?user=1Ol5Y4wAAAAJ&hl=en&authuser=1}}">my Google Scholar profile</a>.</u>
+You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=1Ol5Y4wAAAAJ&hl=en&authuser=1)
 
 
