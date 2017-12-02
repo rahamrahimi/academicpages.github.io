@@ -30,7 +30,7 @@ Other Articles
 
 [2. Rahimi, Reza. "Progression of Offshore Drilling Safety Culture Through Smart System, PETROPARS Experience in South Pars Gas Field, Phase 12." SPE/IADC Middle East Drilling Technology Conference and Exhibition. Society of Petroleum Engineers, 2011.](https://www.onepetro.org/conference-paper/SPE-148393-MS?sort=&start=0&q=reza+rahimi&from_year=&peer_reviewed=&published_between=&fromSearchResults=true&to_year=&rows=10#)
 
-[3. RAHIMI, REZA, and NAVID MOLLAEE. "NEW POLICY FOR REDUCTION OF GHG EMISSION IN DEVELOPING COUNTRIES; FEASIBILITY STUDY ON APPLICATION OF BIOFUELS AND THEIR ENVIRONMENTAL PERFORMANCE. 6th International Conference on Innovation and Management (ICIM), São Paulo, Brazil, 2009."](http://www.pucsp.br/icim2009/ingles/downloads/papers/TL_044.pdf) 
+[3. Rahimi, Reza, and Navid Mollaee. "New Policy for Reduction of GHG Emission in Developing Countries; Feasibility Study on Application of Biofuels and Their Environmental Performance". 6th International Conference on Innovation and Management (ICIM), São Paulo, Brazil, 2009."](http://www.pucsp.br/icim2009/ingles/downloads/papers/TL_044.pdf) 
 
 
 
