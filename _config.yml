@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Reza Rahimi, Ph.D."
+title                    : "Dr. Reza Rahimi's Webpage"
 title_separator          : "-"
 name                     : &name "Reza Rahimi, Ph.D."
 description              : &description "Senior Data Scientist at MasterCard"
