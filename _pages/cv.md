@@ -37,7 +37,7 @@ Service and leadership
 ======
 * Society of Petroleum Engineers (SPE)
 
-* American Association of Drilling Engineers
+* American Association of Drilling Engineers (AADE)
 
 * President, American Rock Mechanics Association, Missouri S&T Student Chapter(2014-2016)
 
