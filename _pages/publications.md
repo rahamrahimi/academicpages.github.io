@@ -30,7 +30,7 @@ Other Articles
 
 [2. Rahimi, Reza. "Progression of Offshore Drilling Safety Culture Through Smart System, PETROPARS Experience in South Pars Gas Field, Phase 12." SPE/IADC Middle East Drilling Technology Conference and Exhibition. Society of Petroleum Engineers, 2011.](https://www.onepetro.org/conference-paper/SPE-148393-MS?sort=&start=0&q=reza+rahimi&from_year=&peer_reviewed=&published_between=&fromSearchResults=true&to_year=&rows=10#) 
 
-[3. Rahimi, Reza. "Progression of Offshore Drilling Safety Culture Through Smart System, PETROPARS Experience in South Pars Gas Field, Phase 12." SPE/IADC Middle East Drilling Technology Conference and Exhibition. Society of Petroleum Engineers, 2011.](https://www.onepetro.org/conference-paper/SPE-148393-MS?sort=&start=0&q=reza+rahimi&from_year=&peer_reviewed=&published_between=&fromSearchResults=true&to_year=&rows=10#) 
+
 
 
 
