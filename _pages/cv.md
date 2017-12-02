@@ -35,4 +35,13 @@ Professional Experience
   
 Service and leadership
 ======
-* President, American Rock Mechanics Association, Missouri S&T Student Chapter
+* Society of Petroleum Engineers (SPE)
+
+* American Association of Drilling Engineers
+
+* President, American Rock Mechanics Association, Missouri S&T Student Chapter(2014-2016)
+
+* International Justice Mission 
+
+
+
