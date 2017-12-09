@@ -18,3 +18,9 @@ author_profile: true
 
 
 - Petroleum Geomechanics
+
+
+- Forecasting: Principles and Practice
+
+
+- Natural Language Processing 
