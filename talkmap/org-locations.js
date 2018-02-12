@@ -7,7 +7,7 @@ var addressPoints = [
   [
     "Houston, Texas",
     29.7604,
-    95.3698
+    -95.3698
   ],
   [
     "San Francisco, California",
@@ -17,7 +17,7 @@ var addressPoints = [
   [
     "Minneapolis, Minnesota",
     44.9778,
-    93.2650
+    -93.2650
   ],
   [
     "Dubai, UAE",
