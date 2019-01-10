@@ -14,10 +14,14 @@ Education
 * Ph.D. in Petroleum Engineering, Missouri University of Science & Technology, 2016
 * M.S. in Petroleum Engineering, Missouri University of Science & Technology, 2014
 * B.S. in Petroleum Engineering, University of Petroleum Technology, 2009
+* Professional Data Science Training, John Hopkins University, 2016-2017
 
 Professional Experience
 ======
-* Current: Senior Data Scientist
+* Current: Technology Research Scientist (AI, Cyber Intelligence, Distributed System)
+  * MasterCard
+  
+* Jan 2017 to Jul 2018: Senior Data Scientist
   * MasterCard
 
 * Aug 2012 to December 2016: Graduate Research Assistant
