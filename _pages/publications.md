@@ -32,9 +32,11 @@ Other Articles
 ======
 [1. Sidetrack Is Not Always an Expensive Choice: Job Hunting Strategies for Young Professionals- THE WAY AHEAD, Society of Petroleum Engineers](https://www.spe.org/en/twa/twa-article-detail/?art=3142) 
 
-[2. Rahimi, Reza. "Progression of Offshore Drilling Safety Culture Through Smart System, PETROPARS Experience in South Pars Gas Field, Phase 12." SPE/IADC Middle East Drilling Technology Conference and Exhibition. Society of Petroleum Engineers, 2011.](https://www.onepetro.org/conference-paper/SPE-148393-MS?sort=&start=0&q=reza+rahimi&from_year=&peer_reviewed=&published_between=&fromSearchResults=true&to_year=&rows=10#)
+[2. The Danger of the Big Data Fashion—The Price of FOMO Could be Extravagant](https://www.spe.org/en/twa/twa-article-detail/?art=4149) 
 
-[3. Rahimi, Reza, and Navid Mollaee. "New Policy for Reduction of GHG Emission in Developing Countries; Feasibility Study on Application of Biofuels and Their Environmental Performance". 6th International Conference on Innovation and Management (ICIM), São Paulo, Brazil, 2009."](http://www.pucsp.br/icim2009/ingles/downloads/papers/TL_044.pdf) 
+[3. Rahimi, Reza. "Progression of Offshore Drilling Safety Culture Through Smart System, PETROPARS Experience in South Pars Gas Field, Phase 12." SPE/IADC Middle East Drilling Technology Conference and Exhibition. Society of Petroleum Engineers, 2011.](https://www.onepetro.org/conference-paper/SPE-148393-MS?sort=&start=0&q=reza+rahimi&from_year=&peer_reviewed=&published_between=&fromSearchResults=true&to_year=&rows=10#)
+
+[4. Rahimi, Reza, and Navid Mollaee. "New Policy for Reduction of GHG Emission in Developing Countries; Feasibility Study on Application of Biofuels and Their Environmental Performance". 6th International Conference on Innovation and Management (ICIM), São Paulo, Brazil, 2009."](http://www.pucsp.br/icim2009/ingles/downloads/papers/TL_044.pdf) 
 
 
 
