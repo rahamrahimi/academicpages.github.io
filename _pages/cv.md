@@ -18,7 +18,10 @@ Education
 
 Professional Experience
 ======
-* Current: Technology Research Scientist (AI, Cyber Intelligence, Distributed System)
+* Current: Director & Enterprise Technologist (Cyber & Intelligence Solutions)
+  * MasterCard
+
+* Aug 2018 to February 2020: Technology Research Scientist (AI, Cyber Intelligence, Distributed System)
   * MasterCard
   
 * Jan 2017 to Jul 2018: Senior Data Scientist
