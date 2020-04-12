@@ -24,3 +24,7 @@ author_profile: true
 
 
 - Natural Language Processing 
+
+
+- Decision Science (Fraud Analytics) 
+
