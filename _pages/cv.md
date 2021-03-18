@@ -18,10 +18,12 @@ Education
 
 Professional Experience
 ======
-* Current: Director & Enterprise Technologist (Cyber & Intelligence Solutions)
-  * MasterCard
 
-* Aug 2018 to February 2020: Technology Research Scientist (AI, Cyber Intelligence, Distributed System)
+
+* Current: Principal Deep Learning/AI Engineer
+  * Illumina
+
+* Aug 2018 to May 2020: Director & Technology Research Scientist (AI, Cyber & Intelligence Solutions)
   * MasterCard
   
 * Jan 2017 to Jul 2018: Senior Data Scientist
