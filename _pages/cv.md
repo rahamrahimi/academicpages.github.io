@@ -29,7 +29,7 @@ Professional Experience
 * Jan 2017 to Jul 2018: Senior Data Scientist
   * MasterCard
 
-* Aug 2012 to December 2016: Graduate Research Assistant
+* Aug 2012 to December 2016: Research Fellow
   * Missouri University of Science & Technology
   
 * Jul 2010 to July 2012: Offshore Petroleum Engineer
