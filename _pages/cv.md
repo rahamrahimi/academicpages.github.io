@@ -26,7 +26,7 @@ Professional Experience
 * Aug 2018 to May 2020: Director & Technology Research Scientist (AI, Cyber & Intelligence Solutions)
   * MasterCard
   
-* Jan 2017 to Jul 2018: Senior Data Scientist
+* Jan 2017 to Jul 2018: Lead Data Scientist
   * MasterCard
 
 * Aug 2012 to December 2016: Research Fellow
